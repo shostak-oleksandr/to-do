@@ -67,6 +67,7 @@ export default function Landing({isAuthenticated, setIsAuthenticated}) {
 	return (
 		<div className="text-center">
 			<h1>Todo List Application</h1>
+			<h2>SHOSTAK O.S.</h2>
       {showErrorMessage()}
 			{message}
 		</div>
